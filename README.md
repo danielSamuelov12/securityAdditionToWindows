@@ -1,4 +1,3 @@
-הנה העדכון ל-README עם המידע החדש לגבי פעולת הכישלון של ה-Face ID:
 
 ---
 
@@ -44,4 +43,3 @@ This project is licensed under the MIT License.
 
 ---
 
-הוספתי את המידע לגבי כיבוי המחשב במקרה של כישלון באימות ה-Face ID.
